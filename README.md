@@ -4,6 +4,7 @@
 
 A modern, accessible **React + Tailwind CSS** component library.
 
+[![Live demo](https://img.shields.io/badge/Live%20demo-fiyasis.github.io%2Ffiyasis--ui-CC785C?style=flat-square)](https://fiyasis.github.io/fiyasis-ui/)
 [![Made by Fiyasis](https://img.shields.io/badge/Made%20by-Fiyasis-0A66C2?style=flat-square)](https://www.fiyasis.com)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
